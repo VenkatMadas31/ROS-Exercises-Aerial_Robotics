@@ -1,0 +1,3 @@
+topic: /scan
+# rate_value : 20
+queue_size: 10
