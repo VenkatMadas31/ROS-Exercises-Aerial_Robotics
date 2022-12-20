@@ -1,4 +1,4 @@
-# README #
+# This repository contains the solutions to the ETH Zurich ROS Exercises #
 ---
 - The `src` folders contains the packages.
 - The package `smb_common` corresponds to Exercise 1.
